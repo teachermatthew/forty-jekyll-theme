@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Services
-image: assets/images/pic01.jpg
+image: assets/images/services.jpg
 nav-menu: true
 ---
 
