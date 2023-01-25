@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 image: assets/images/profile_photo_cropped-final.png
 nav-menu: true
