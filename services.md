@@ -5,36 +5,32 @@ image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
-<section id="services">
-    <h2>Services</h2>
-    <div class="services-container">
-        <div class="service">
-            <h3>Personalized Tutoring Packages</h3>
-            <p>I design each package to meet your specific needs and goals</p>
-            <p>I offer flexible scheduling to fit your busy schedule</p>
-            <p>Online only</p>
-        </div>
-        <div class="service">
-            <h3>Expertise in Professional and Academic English</h3>
-            <p>I help you improve your vocabulary and language use for job interviews and professional communication</p>
-            <p>I help you enhance your writing and reading skills for academic success</p>
-            <p>I provide specialized assistance for business professionals</p>
-            <p>I teach both children and adults</p>
-        </div>
-        <div class="service">
-            <h3>Specialized Assistance for Non-Native Speakers</h3>
-            <p>I help you improve your pronunciation and fluency</p>
-            <p>I teach strategies for understanding and participating in conversations</p>
-        </div>
-        <div class="service">
-            <h3>Affordable Pricing</h3>
-            <p>I offer competitive rates for top-quality tutoring</p>
-            <p>I provide discounts for package deals and referrals</p>
-        </div>
-        <div class="service">
-            <h3>Satisfaction Guaranteed</h3>
-            <p>Your success is my top priority</p>
-            <p>If you are not satisfied with my services, I will work with you to find a solution</p>
-        </div>
-    </div>
-</section>
+Course Overview:
+
+📝 In my classes, I focus on fostering key skills such as academic writing, pronunciation, and presentation skills, using a variety of effective methodologies and resources.
+
+👀 In addition to my strong teaching skills, I also have a clear vision for how to help my students grow and succeed in their language learning journey.
+
+🧑‍🏫 I believe that personalized, one-on-one instruction is the most effective way to help students succeed, which is why I offer customized lessons tailored to your specific needs and goals.
+
+
+
+💪 Get Rid Of The Nerves and Start With Confidence Now - Matthew's Job/School Interview Prep 😅🤯🏆
+
+🏆 As a former Software Engineer with a degree in Computer Science, I know firsthand the challenges of preparing for a job interview and communicating with colleagues at work. Let me use my experience and skills to help you overcome these challenges and succeed in your career.
+
+💪 Let's work together to take your English skills to the next level!
+
+🐶 Come join My Trial Class! 🐶
+What to expect in this 25-min trial❓
+
+➡️ Plot your learning journey with me!
+➡️ A detailed analysis of your current level 
+➡️ A problem-solving mini-lesson 
+➡️ Valuable learning methods to stop wasting time!
+
+❗️Classroom Rules ❕
+↘️ Bring your pen and a notebook to collect useful expressions in class.
+↘️ Always check your connection and devices before class starts.
+↘️ Cancel the class 24 hours before class. If you have to cancel a class within 24 hours, be sure you notify me.
+
