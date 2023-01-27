@@ -3,6 +3,7 @@ layout: post
 title: About Me
 image: assets/images/profile_photo_cropped-final.png
 nav-menu: true
+order: 1
 ---
 
 <section id="welcome">
