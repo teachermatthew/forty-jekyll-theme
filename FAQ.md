@@ -3,6 +3,7 @@ layout: post
 title: FAQ
 image: assets/images/faq.jpg
 nav-menu: true
+order: 4
 ---
 
 <h2>Frequently Asked Questions</h2>
