@@ -3,6 +3,7 @@ layout: post
 title: Resources
 image: assets/images/resources.jpg
 nav-menu: true
+order: 2
 ---
 
 <h1>Welcome to the resources section of my website!</h1>
