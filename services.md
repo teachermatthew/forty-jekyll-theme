@@ -3,6 +3,7 @@ layout: post
 title: Services
 image: assets/images/services.jpg
 nav-menu: true
+order: 3
 ---
 
 <section id="course-overview">
