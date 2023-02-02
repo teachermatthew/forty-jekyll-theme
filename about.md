@@ -6,6 +6,23 @@ nav-menu: true
 order: 1
 ---
 
+<style>
+  .video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
 <section id="welcome">
   <h2>Welcome to my website!</h2>
   <p>My name is Matthew Schultz and I am a highly experienced and qualified English tutor.</p>
@@ -23,12 +40,15 @@ order: 1
     <li>Assistance in improving English skills for work</li>
     <li>Opportunities to become more fluent</li>
   </ul>
-  <h3>Introduction Video</h3>
-  <div style="width:100%; padding:0;">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/j4-Xwb0Ki04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3>Introduction Video</h3>
+  <div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j4-Xwb0Ki04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
+  
   <br><br>
+  
   <p>Thank you for visiting my website, and I look forward to the opportunity to work with you!</p>
 </section>
+
 
 
