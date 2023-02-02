@@ -23,7 +23,9 @@ order: 1
         <li>Assistance in improving English skills for work</li>
         <li>Opportunities to become more fluent</li>
     </ul>
-    <h3>Introduction Video</h3>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/j4-Xwb0Ki04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in- picture; web-share" allowfullscreen></iframe>
+    <br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j4-Xwb0Ki04" title="YouTube video player" style="width:100%; max-width:560px; height:auto;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <br />
     <p>Thank you for visiting my website, and I look forward to the opportunity to work with you!</p>
 </section>
+
